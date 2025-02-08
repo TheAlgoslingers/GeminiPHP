@@ -1,2 +1,2 @@
 # GoogleAiClient
-An SDK for browse Google's AI API
+An SDK for Google Gemini AI. "Start building with the Gemini API"
