@@ -1,15 +1,15 @@
 {
-    "name": "thealgoslingers/googleaiclient",
-    "description": "Google AI SDK",
+    "name": "thealgoslingers/geminiphp",
+    "description": "Google Gemini AI PHP SDK | Start building with the Gemini API",
     "type": "library",
-    "keywords": ["google ai","google sdk","google ai client","google ai sdk","gemini","ai"],
+    "keywords": ["google ai","google sdk","google ai client","google ai sdk","gemini","ai","gemini php sdk"],
     "require": {
         "guzzlehttp/guzzle": "^7.9"
     },
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Thealgoslingers\\GoogleAiClient\\": "src/"
+            "Thealgoslingers\\Gemini\\": "src/"
         }
     },
     "authors": [
