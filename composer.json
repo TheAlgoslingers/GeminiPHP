@@ -1,19 +1,20 @@
 {
-    "name": "amdeblob/gai",
+    "name": "thealgoslingers/googleaiclient",
     "description": "Google AI SDK",
     "type": "library",
+    "keywords": ["google ai","google sdk","google ai client","google ai sdk","gemini","ai"],
     "require": {
         "guzzlehttp/guzzle": "^7.9"
     },
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Amdeblob\\Gai\\": "src/"
+            "Thealgoslingers\\GoogleAiClient\\": "src/"
         }
     },
     "authors": [
         {
-            "name": "Am Deblob"
+            "name": "Thealgoslingers"
         }
     ],
     "minimum-stability": "stable"
